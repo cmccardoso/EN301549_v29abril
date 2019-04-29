@@ -284,8 +284,7 @@ Resultado        |Passa: A verificação 1 é verdadeira.<br>Falha: A verificaç
 Tipo de avaliação|Inspeção
 -----------------|--------
 Pré-condições    |1. A TIC que está a ser testada fornece comunicação bidirecional por voz.<br>A TIC permite que um utilizador comunique com outro através de TTR.
-Procedimento     |1. Verificar que a TIC fornece um mecanismo para selecionar o modo de operação que permite voz e texto concorrentes.<br>
-2. Verificar que a TIC permite a utilização de voz e texto concorrentes quando no modo de operação identificado no passo 1.
+Procedimento     |1. Verificar que a TIC fornece um mecanismo para selecionar o modo de operação que permite voz e texto concorrentes.                  |2. Verificar que a TIC permite a utilização de voz e texto concorrentes quando no modo de operação identificado no passo 1.
 Resultado        |Passa: As verificações 1 e 2 são verdadeiras.<br>Falha: As verificações 1 e 2 são falsas.
 
 #### C.6.2.2 Exibição do texto em tempo real
