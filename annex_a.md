@@ -1,4 +1,4 @@
-# Anexo A (informativo): Relação entre este documento e os requisites essenciais da Diretiva 2016/2102
+# Anexo A (informativo): Relação entre este documento e os requisitos essenciais da Diretiva 2016/2102
 
 O presente documento foi preparado sobre pedido à Comissão de Standardização C(2017) 2585 final [i.27] para fornecer uma forma voluntária de conformidade aos requisitos principais da Diretiva 2016/2102 [i.28] sobre a acessibilidade de websites e aplicações móveis para organismos do setor público. 
 Uma vez citado no jornal oficial da União Europeia sobre esta Diretiva, a conformidade com as cláusulas normativas do presente documento dadas nas tabelas A.1 e A.2 confere, sobre os limites de abrangência do presente documento, a presunção de conformidade com os requisitos essenciais correspondentes da Diretiva e regulamentos EFTA associados
