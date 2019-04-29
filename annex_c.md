@@ -364,7 +364,6 @@ Pré-condições    |1. A TIC exibe ou processa vídeo com áudio sincronizado.<
 Procedimento     |1. Verificar que há um mecanismo para exibir as legendas.
 Resultado        |Passa: A verificação 1 é verdadeira.<br>Falha: A verificação 1 é falsa.
 Tipo de avaliação|Teste2
------------------|--------
 Pré-condições    |1. A TIC exibe ou processa vídeo com áudio sincronizado.<br>2. São disponibilizadas legendas fechadas como parte do conteúdo.
 Procedimento     |1. Verificar que há um mecanismo para escolher a visualização de legendas.
 Resultado        |Passa: A verificação 1 é verdadeira.<br>Falha: A verificação 1 é falsa.
@@ -551,7 +550,7 @@ Resultado        |Se a verificação 1 for verdadeira, então esta recomendaçã
 ##### C.8.3.2.6	Folga para o joelho
 a)
 Tipo de avaliação|Inspeção baseada em dados medidos
------------------|--------
+-----------------|---------------------------------
 Pré-condições    |1. Há um obstáculo que é parte integrante de uma TIC. <br>2. O obstáculo está entre 230 mm e 685 mm acima do chão.
 Procedimento     |1. Verificar que existe uma folga inferior a 635 mm, a uma altura de 230 mm.
 Resultado        |Se a verificação 1 for verdadeira, então esta recomendação é seguida.
