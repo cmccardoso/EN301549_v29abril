@@ -110,8 +110,7 @@ Resultado        |Passa: A verificação 1 ou 2 são verdadeiras; ou 3 é verdad
 ##### C.5.1.3.10 Saída de áudio sem interferência
 Tipo de avaliação|Inspeção
 -----------------|-------
-Pré-condições    |1. A saída auditiva é fornecida como acesso não-visual à funcionalidade fechada.<br>
-2. A TIC reproduz automaticamente saída de áudio com interferência.
+Pré-condições    |1. A saída auditiva é fornecida como acesso não-visual à funcionalidade fechada.<br> 2. A TIC reproduz automaticamente saída de áudio com interferência.
 Procedimento     |1. Verificar que a interferência audível não dura mais de 3 segundos.
 Resultado        |Passa: A verificação 1 é verdadeira.<br>Falha: A verificação 1 é falsa.
 
