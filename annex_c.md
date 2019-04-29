@@ -552,8 +552,9 @@ Procedimento     |1. Verificar que a folga para o dedo do pé se extende a mais 
 Resultado        |Se a verificação 1 for verdadeira, então esta recomendação é seguida.
 
 ##### C.8.3.2.6	Folga para o joelho
-<ol type="a">
-  <li></li>
+
+###### a)
+
 Tipo de avaliação|Inspeção baseada em dados medidos
 -----------------|---------------------------------
 Pré-condições    |1. Há um obstáculo que é parte integrante de uma TIC. <br>2. O obstáculo está entre 230 mm e 685 mm acima do chão.
