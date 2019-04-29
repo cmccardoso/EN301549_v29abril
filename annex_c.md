@@ -552,7 +552,8 @@ Procedimento     |1. Verificar que a folga para o dedo do pé se extende a mais 
 Resultado        |Se a verificação 1 for verdadeira, então esta recomendação é seguida.
 
 ##### C.8.3.2.6	Folga para o joelho
-<p>a)</p>
+<ol type="a">
+  <li></li>
 Tipo de avaliação|Inspeção baseada em dados medidos
 -----------------|---------------------------------
 Pré-condições    |1. Há um obstáculo que é parte integrante de uma TIC. <br>2. O obstáculo está entre 230 mm e 685 mm acima do chão.
@@ -596,6 +597,7 @@ Tipo de avaliação|Inspeção baseada em dados medidos
 Pré-condições    |1. O espaço de acesso é parte integrante da TIC. <br>2. Há um acesso desobstruído para os controlos.
 Procedimento     |1. Verificar que os controlos essenciais estão localizados a uma altura não inferior a 380 mm acima do piso do espaço de acesso.
 Resultado        |Se a verificação 1 for verdadeira, então esta recomendação é seguida.
+</ol>
 
 ###### C.8.3.3.1.3 Alcance obstruído
 ####### C.8.3.3.1.3.1	Espaço de piso desimpedido
