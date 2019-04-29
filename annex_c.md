@@ -117,8 +117,7 @@ Resultado        |Passa: A verificação 1 é verdadeira.<br>Falha: A verificaç
 ##### C.5.1.3.11 Volume de escuta privada
 Tipo de avaliação|Inspeção
 -----------------|-------
-Pré-condições    |1. A saída auditiva é fornecida como acesso não-visual à funcionalidade fechada.
-<br>2. A saída auditiva é fornecida por um mecanismo de escuta privada.
+Pré-condições    |1. A saída auditiva é fornecida como acesso não-visual à funcionalidade fechada. <br>2. A saída auditiva é fornecida por um mecanismo de escuta privada.
 Procedimento     |1. Verificar que existe pelo menos um modo de operação não-visual para controlar o volume do som.
 Resultado        |Passa: A verificação 1 é verdadeira.<br>Falha: A verificação 1 é falsa.
 
