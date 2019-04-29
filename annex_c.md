@@ -554,7 +554,6 @@ Resultado        |Se a verificação 1 for verdadeira, então esta recomendaçã
 ##### C.8.3.2.6	Folga para o joelho
 
 ###### a)
-
 Tipo de avaliação|Inspeção baseada em dados medidos
 -----------------|---------------------------------
 Pré-condições    |1. Há um obstáculo que é parte integrante de uma TIC. <br>2. O obstáculo está entre 230 mm e 685 mm acima do chão.
@@ -600,7 +599,9 @@ Procedimento     |1. Verificar que os controlos essenciais estão localizados a 
 Resultado        |Se a verificação 1 for verdadeira, então esta recomendação é seguida.
 
 ###### C.8.3.3.1.3 Alcance obstruído
+
 ####### C.8.3.3.1.3.1	Espaço de piso desimpedido
+
 Tipo de avaliação|Inspeção baseada em dados medidos
 -----------------|--------
 Pré-condições    |1. O espaço de acesso é parte integrante da TIC. <br>2. Existe uma obstrução que é parte integrante da TIC.
