@@ -609,6 +609,7 @@ Procedimento     |1. Verificar que existe um espaço de piso desimpedido que se 
 Resultado        |Se a verificação 1 for verdadeira, então esta recomendação é seguida.
 
 ####### C.8.3.3.1.3.2	Obstrução (< 510 mm) do alcance para a frente 
+
 Tipo de avaliação|Inspeção baseada em dados medidos
 -----------------|--------
 Pré-condições    |1. O espaço de acesso é parte integrante da TIC. <br>2. Existe uma obstrução que é parte integrante da TIC.<br>3. A obstrução é inferior a 510 mm.
@@ -616,6 +617,7 @@ Procedimento     |1. Verificar que o alcance para a frente de todos os controlos
 Resultado        |Se a verificação 1 for verdadeira, então esta recomendação é seguida.
 
 ####### C.8.3.3.1.3.3	Obstrução (< 635 mm) do alcance para a frente 
+
 Tipo de avaliação|Inspeção baseada em dados medidos
 -----------------|--------
 Pré-condições    |1. O espaço de acesso é parte integrante da TIC. <br>2. Existe uma obstrução que é parte integrante da TIC.<br>3. A obstrução está entre 510 mm e 635 mm.
@@ -623,7 +625,9 @@ Procedimento     |1. Verificar que o alcance para a frente de todos os controlos
 Resultado        |Se a verificação 1 for verdadeira, então esta recomendação é seguida.
 
 ##### C.8.3.3.2 Alcance lateral
+
 ###### C.8.3.3.2.1 Desobstrução de alcance lateral elevado 
+
 Tipo de avaliação|Inspeção baseada em dados medidos
 -----------------|--------
 Pré-condições    |1. O espaço de acesso é parte integrante da TIC. <br>2. É possível uma aproximação paralela.<br>3. O alcance lateral está desobstruído ou está obstruído por uma parte inferior a 255 mm .
@@ -631,6 +635,7 @@ Procedimento     |1. Verificar que a altura do controlo essencial mais alto é i
 Resultado        |Se a verificação 1 for verdadeira, então esta recomendação é seguida.
 
 ###### C.8.3.3.2.2 Desobstrução de alcance lateral baixo
+
 Tipo de avaliação|Inspeção baseada em dados medidos
 -----------------|--------
 Pré-condições    |1. O espaço de acesso é parte integrante da TIC. <br>2. É possível uma aproximação paralela.<br>3. O alcance lateral está desobstruído ou está obstruído por uma parte inferior a 255 mm .
@@ -638,7 +643,9 @@ Procedimento     |1. Verificar que a altura do controlo essencial mais baixo é 
 Resultado        |Se a verificação 1 for verdadeira, então esta recomendação é seguida.
 
 ###### C.8.3.3.2.3 Obstrução de alcance lateral
+
 ####### C.8.3.3.2.3.1 Obstrução (≤ 255 mm) de alcance lateral
+
 Tipo de avaliação|Inspeção baseada em dados medidos
 -----------------|--------
 Pré-condições    |1. O espaço de acesso é parte integrante da TIC. <br>2. É possível uma aproximação paralela.<br>3. Existe uma obstrução que é parte integrante da TIC e com altura inferior a 865 mm.<br>3. O alcance lateral está desobstruído ou está obstruído por uma parte inferior a 255 mm .
@@ -646,6 +653,7 @@ Procedimento     |1. Verificar que a altura do controlo essencial mais alto não
 Resultado        |Se a verificação 1 for verdadeira, então esta recomendação é seguida.
 
 ####### C.8.3.3.2.3.2 Obstrução (≤ 610 mm) de alcance lateral
+
 Tipo de avaliação|Inspeção baseada em dados medidos
 -----------------|--------
 Pré-condições    |1. O espaço de acesso é parte integrante da TIC. <br>2. É possível uma aproximação paralela.<br>3. Existe uma obstrução que é parte integrante da TIC e com altura inferior a 865 mm.<br>3. O alcance lateral está desobstruído ou está obstruído por uma parte superior a 255 mm e inferior a 610 mm.
@@ -1425,7 +1433,9 @@ Resultado        |Passa: Todas as verificações são verdadeiras ou (1 e 2 são
 
 #### C.11.1.2	Conteúdo multimédia temporal
 ##### C.11.1.2.1	Conteúdo só de áudio e só de vídeo (pré-gravado)
+
 ###### C.11.1.2.1.1	Conteúdo só de áudio e só de vídeo (pré-gravado – funcionalidade aberta)
+
 Tipo de avaliação|Inspeção
 -----------------|--------
 Pré-condições    |1. A TIC é um software não-Web que fornece uma interface de utilizador.<br>2. O software suporta o acesso a tecnologias de apoio para leitura de ecrã.<br>3. A informação auditiva pré-gravada não é necessária para permitir a utilização de funções fechadas da TIC.
@@ -1433,7 +1443,9 @@ Procedimento     |1. Verificar que a página web não falha em satisfazer os cri
 Resultado        |Passa: A verificação 1 é verdadeira.<br>Falha: A verificação 1 é falsa.
 
 ###### C.11.1.2.1.2	Conteúdo só de áudio e só de vídeo (pré-gravado - functionalidade fechada)
+
 ####### C.11.1.2.1.2.1 Conteúdo só de áudio (pré-gravado - functionalidade fechada)
+
 Tipo de avaliação|Inspeção
 -----------------|--------
 Pré-condições    |1. A TIC é um software não-Web que fornece uma interface de utilizador.<br>2. O software suporta o acesso a tecnologias de apoio para leitura de ecrã.<br>3. A informação auditiva pré-gravada é necessária para permitir a utilização de funções fechadas da TIC.
@@ -1441,6 +1453,7 @@ Procedimento     |1. Verificar que a saída de fala apresenta informação equiv
 Resultado        |Passa: A verificação 1 é verdadeira.<br>Falha: A verificação 1 é falsa.
 
 ####### C.11.1.2.1.2.2 Conteúdo só de vídeo (pré-gravado - functionalidade fechada)
+
 Tipo de avaliação|Inspeção
 -----------------|--------
 Pré-condições    |1. A TIC é um software não-Web que fornece uma interface de utilizador.<br>2. O software suporta o acesso a tecnologias de apoio para leitura de ecrã.<br>3. A informação de vídeo pré-gravada é necessária para permitir a utilização de funções fechadas da TIC.<br>4. É fornecida saída de fala como acesso não-visual a conteúdo textual exibido em funcionalidade fechada.
@@ -1448,6 +1461,7 @@ Procedimento     |1. Verificar que a saída de fala apresenta informação equiv
 Resultado        |Passa: A verificação 1 é verdadeira.<br>Falha: A verificação 1 é falsa.
 
 ##### C.11.1.2.2 Legendas (pré-gravadas)
+
 Tipo de avaliação|Inspeção
 -----------------|--------
 Pré-condições    |1. A TIC é um software não-Web que fornece uma interface de utilizador.
@@ -1455,7 +1469,9 @@ Procedimento     |1. Verificar que a página web não falha em satisfazer os cri
 Resultado        |Passa: A verificação 1 é verdadeira.<br>Falha: A verificação 1 é falsa.
 
 ##### C.11.1.2.3	Áudiodescrição ou alternativa de multimédia (pré-gravado)
+
 ###### C.11.1.2.3.1	Áudiodescrição ou alternativa de multimédia (pré-gravado - funcionalidade aberta)
+
 Tipo de avaliação|Inspeção
 -----------------|--------
 Pré-condições    |1. A TIC é um software não-Web que fornece uma interface de utilizador.<br>2.O software fornece acesso a tecnologias de apoio para leitura de ecrã.
@@ -1463,6 +1479,7 @@ Procedimento     |1. Verificar que a página web não falha em satisfazer os cri
 Resultado        |Passa: A verificação 1 é verdadeira.<br>Falha: A verificação 1 é falsa.
 
 ###### C.11.1.2.3.2	Áudiodescrição ou alternativa de multimédia (pré-gravado - funcionalidade fechada)
+
 Tipo de avaliação|Inspeção
 -----------------|--------
 Pré-condições    |1. A TIC é um software não-Web que fornece uma interface de utilizador.<br>2. É fornecida saída de fala como acesso não-visual a conteúdo textual exibido em funcionalidade fechada.
@@ -1470,6 +1487,7 @@ Procedimento     |1. Verificar que a página web não falha em satisfazer os cri
 Resultado        |Passa: A verificação 1 é verdadeira.<br>Falha: A verificação 1 é falsa.
 
 ##### C.11.1.2.4	Legendas (Em Direto)
+
 Tipo de avaliação|Inspeção
 -----------------|--------
 Pré-condições    |1. A TIC é um software não-Web que fornece uma interface de utilizador.
@@ -1477,6 +1495,7 @@ Procedimento     |1. Verificar que a página web não falha em satisfazer os cri
 Resultado        |Passa: A verificação 1 é verdadeira.<br>Falha: A verificação 1 é falsa.
 
 ##### C.11.1.2.5	Áudio-descrição (pré-gravada)
+
 Tipo de avaliação|Inspeção
 -----------------|--------
 Pré-condições    |1. A TIC é um software não-Web que fornece uma interface de utilizador.
@@ -1484,8 +1503,11 @@ Procedimento     |1. Verificar que a página web não falha em satisfazer os cri
 Resultado        |Passa: A verificação 1 é verdadeira.<br>Falha: A verificação 1 é falsa.
 
 #### C.11.1.3	Adaptável
+
 ##### C.11.1.3.1 Informações e Relações
+
 ###### C.11.1.3.1.1	Informações e Relações (funcionalidade aberta)
+
 Tipo de avaliação|Inspeção
 -----------------|--------
 Pré-condições    |1. A TIC é um software não-Web que fornece uma interface de utilizador.<br>A TIC fornece uma interface de utilizador aberta a tecnologias de apoio para leitura de ecrã.
@@ -1493,10 +1515,13 @@ Procedimento     |1. Verificar que a página web não falha em satisfazer os cri
 Resultado        |Passa: A verificação 1 é verdadeira.<br>Falha: A verificação 1 é falsa.
 
 ###### C.11.1.3.1.2	Informações e Relações (funcionalidade fechada)
+
 Esta cláusula é apenas informativa, não contém requisitos que precisem de testes.
 
 ##### C.11.1.3.2	Sequência com significação
+
 ###### C.11.1.3.2.1	Sequência com significação (funcionalidade aberta)
+
 Tipo de avaliação|Inspeção
 -----------------|--------
 Pré-condições    |1. A TIC é um software não-Web que fornece uma interface de utilizador.<br>A TIC fornece uma interface de utilizador aberta a tecnologias de apoio para leitura de ecrã.
