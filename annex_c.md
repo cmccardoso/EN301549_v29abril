@@ -561,21 +561,21 @@ Pré-condições    |1. Há um obstáculo que é parte integrante de uma TIC. <b
 Procedimento     |1. Verificar que existe uma folga inferior a 635 mm, a uma altura de 230 mm.
 Resultado        |Se a verificação 1 for verdadeira, então esta recomendação é seguida.
 
-b
+###### b)
 Tipo de avaliação|Inspeção baseada em dados medidos
 -----------------|--------
 Pré-condições    |1. Há um obstáculo que é parte integrante de uma TIC. <br>2. O obstáculo está entre 230 mm e 685 mm acima do chão.
 Procedimento     |1. Verificar que existe uma folga superior a 285 mm, a uma altura de 230 mm.
 Resultado        |Se a verificação 1 for verdadeira, então esta recomendação é seguida.
 
-c
+###### c)
 Tipo de avaliação|Inspeção baseada em dados medidos
 -----------------|--------
 Pré-condições    |1. Há um obstáculo que é parte integrante de uma TIC. <br>2. O obstáculo está entre 230 mm e 685 mm acima do chão.
 Procedimento     |1. Verificar que existe uma folga superior a 205 mm, a uma altura de 685 mm.
 Resultado        |Se a verificação 1 for verdadeira, então esta recomendação é seguida.
 
-d
+###### d)
 Tipo de avaliação|Inspeção baseada em dados medidos
 -----------------|--------
 Pré-condições    |1. Há um obstáculo que é parte integrante de uma TIC. <br>2. O obstáculo está entre 230 mm e 685 mm acima do chão.
@@ -598,7 +598,6 @@ Tipo de avaliação|Inspeção baseada em dados medidos
 Pré-condições    |1. O espaço de acesso é parte integrante da TIC. <br>2. Há um acesso desobstruído para os controlos.
 Procedimento     |1. Verificar que os controlos essenciais estão localizados a uma altura não inferior a 380 mm acima do piso do espaço de acesso.
 Resultado        |Se a verificação 1 for verdadeira, então esta recomendação é seguida.
-</ol>
 
 ###### C.8.3.3.1.3 Alcance obstruído
 ####### C.8.3.3.1.3.1	Espaço de piso desimpedido
