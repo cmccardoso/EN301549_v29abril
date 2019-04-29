@@ -554,18 +554,21 @@ Tipo de avaliação|Inspeção baseada em dados medidos
 Pré-condições    |1. Há um obstáculo que é parte integrante de uma TIC. <br>2. O obstáculo está entre 230 mm e 685 mm acima do chão.
 Procedimento     |1. Verificar que existe uma folga inferior a 635 mm, a uma altura de 230 mm.
 Resultado        |Se a verificação 1 for verdadeira, então esta recomendação é seguida.
+
 b)
 Tipo de avaliação|Inspeção baseada em dados medidos
 -----------------|--------
 Pré-condições    |1. Há um obstáculo que é parte integrante de uma TIC. <br>2. O obstáculo está entre 230 mm e 685 mm acima do chão.
 Procedimento     |1. Verificar que existe uma folga superior a 285 mm, a uma altura de 230 mm.
 Resultado        |Se a verificação 1 for verdadeira, então esta recomendação é seguida.
+
 c)
 Tipo de avaliação|Inspeção baseada em dados medidos
 -----------------|--------
 Pré-condições    |1. Há um obstáculo que é parte integrante de uma TIC. <br>2. O obstáculo está entre 230 mm e 685 mm acima do chão.
 Procedimento     |1. Verificar que existe uma folga superior a 205 mm, a uma altura de 685 mm.
 Resultado        |Se a verificação 1 for verdadeira, então esta recomendação é seguida.
+
 d)
 Tipo de avaliação|Inspeção baseada em dados medidos
 -----------------|--------
