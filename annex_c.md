@@ -199,7 +199,6 @@ Pré-condições    |1. A TIC usa características biológicas para identificaç
 Procedimento     |1. Verificar que mais do que um meio pode ser usado para identificação de utilizador. 
 Resultado        |Passa: A verificação 1 é verdadeira.<br>Falha: A verificação 1 é falsa.
 Tipo de avaliação|Teste 2
------------------|---------                 |
 Pré-condições    |1. A TIC usa características biológicas para controlo da TIC.
 Procedimento     |1. Verificar que mais do que um meio pode ser usado para controlar a TIC. 
 Resultado        |Passa: A verificação 1 é verdadeira.<br>Falha: A verificação 1 é falsa.
